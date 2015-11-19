@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+
+.content {
+	position: relative;
+}
+
+.info {
+	position: absolute;
+	text-align: right;
+	top: 270px;
+	left: 160px;
+}
+
+
+#score, #life {
+    display: inline;
+
+}
+
+
+
